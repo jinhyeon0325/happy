@@ -1,0 +1,8 @@
+
+streamlit
+requests
+pandas 
+xml.etree.ElementTree 
+matplotlib.pyplot 
+matplotlib
+seaborn 
